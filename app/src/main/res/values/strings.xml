@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Task App</string>
+    <string name="what_to_do">What to do?</string>
+    <string name="add">ADD</string>
+    <string name="_08">08</string>
+    <string name="fri">FRI</string>
+    <string name="_10_30_am">10:30 AM</string>
+    <string name="task_01">Task 01</string>
+    <string name="delete">Delete</string>
+</resources>
